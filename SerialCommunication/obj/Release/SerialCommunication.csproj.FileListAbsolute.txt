@@ -1,0 +1,10 @@
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\bin\Release\SerialCommunication.exe.config
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\bin\Release\SerialCommunication.exe
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\bin\Release\SerialCommunication.pdb
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Release\SerialCommunication.Form1.resources
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Release\SerialCommunication.Properties.Resources.resources
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Release\SerialCommunication.csproj.GenerateResource.Cache
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Release\SerialCommunication.csproj.CoreCompileInputs.cache
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Release\SerialCommunication.exe
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Release\SerialCommunication.pdb
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Release\SerialCommunication.csprojResolveAssemblyReference.cache

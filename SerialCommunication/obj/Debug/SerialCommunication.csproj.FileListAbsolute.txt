@@ -1,0 +1,48 @@
+c:\users\admin\documents\visual studio 2012\Projects\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe
+c:\users\admin\documents\visual studio 2012\Projects\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.pdb
+c:\users\admin\documents\visual studio 2012\Projects\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.exe
+c:\users\admin\documents\visual studio 2012\Projects\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.pdb
+C:\Users\admin\Desktop\GitHub\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+C:\Users\admin\Desktop\GitHub\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.exe
+C:\Users\admin\Desktop\GitHub\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.pdb
+C:\Users\admin\Desktop\GitHub\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe
+C:\Users\admin\Desktop\GitHub\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.pdb
+C:\Users\admin\Desktop\GitHub\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\GitHub\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Form1.resources
+C:\Users\admin\Desktop\GitHub\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Properties.Resources.resources
+C:\Users\admin\Desktop\GitHub\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.GenerateResource.Cache
+C:\Users\yyy\Desktop\xaiwei2\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.csprojResolveAssemblyReference.cache
+C:\Users\yyy\Desktop\xaiwei2\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.Form1.resources
+C:\Users\yyy\Desktop\xaiwei2\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.Properties.Resources.resources
+C:\Users\yyy\Desktop\xaiwei2\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.csproj.GenerateResource.Cache
+C:\Users\yyy\Desktop\xaiwei2\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.csproj.CoreCompileInputs.cache
+C:\Users\yyy\Desktop\xaiwei2\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.exe
+C:\Users\yyy\Desktop\xaiwei2\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.pdb
+C:\Users\yyy\Desktop\xaiwei2\SerialCommunication-master\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+C:\Users\yyy\Desktop\xaiwei2\SerialCommunication-master\SerialCommunication\bin\Debug\SerialCommunication.exe
+C:\Users\yyy\Desktop\xaiwei2\SerialCommunication-master\SerialCommunication\bin\Debug\SerialCommunication.pdb
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\bin\Debug\SerialCommunication.exe
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\bin\Debug\SerialCommunication.pdb
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.csprojResolveAssemblyReference.cache
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.Form1.resources
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.Properties.Resources.resources
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.csproj.GenerateResource.Cache
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.csproj.CoreCompileInputs.cache
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.exe
+D:\C#.net串口上位机\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.pdb
+D:\C#.net串口上位机\三丫的上位机（1.0版本)\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+D:\C#.net串口上位机\三丫的上位机（1.0版本)\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\bin\Debug\SerialCommunication.exe
+D:\C#.net串口上位机\三丫的上位机（1.0版本)\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\bin\Debug\SerialCommunication.pdb
+D:\C#.net串口上位机\三丫的上位机（1.0版本)\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.csprojResolveAssemblyReference.cache
+D:\C#.net串口上位机\三丫的上位机（1.0版本)\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.Form1.resources
+D:\C#.net串口上位机\三丫的上位机（1.0版本)\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.Properties.Resources.resources
+D:\C#.net串口上位机\三丫的上位机（1.0版本)\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.csproj.GenerateResource.Cache
+D:\C#.net串口上位机\三丫的上位机（1.0版本)\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.csproj.CoreCompileInputs.cache
+D:\C#.net串口上位机\三丫的上位机（1.0版本)\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.exe
+D:\C#.net串口上位机\三丫的上位机（1.0版本)\三丫的上位机（1.0版本）\SerialCommunication-master\SerialCommunication\obj\Debug\SerialCommunication.pdb
